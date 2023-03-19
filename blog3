@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Furkan ERTEK</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+ <link rel="icon" type="image/x-icon" href="/img/icon.png">
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+    <!-- Navbar Start -->
+    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+        <a href="index.html" class="navbar-brand ml-lg-3">
+            <h1 class="m-0 display-5"><span class="text-primary">Furkan</span>ERTEK</h1>
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse px-lg-3" id="navbarCollapse">
+            <div class="navbar-nav m-auto py-0">
+                <a href="#home" class="nav-item nav-link active">Başlangıç</a>
+                <a href="#about" class="nav-item nav-link">Hakkımda</a>
+                <a href="#qualification" class="nav-item nav-link">Quality</a>
+                <a href="#skill" class="nav-item nav-link">Becerilerim</a>
+                <a href="#service" class="nav-item nav-link">Hizmetlerim</a>
+                <a href="#portfolio" class="nav-item nav-link">Portfolyo</a>
+                <a href="#testimonial" class="nav-item nav-link">Review</a>
+                <a href="#blog" class="nav-item nav-link">Blog</a>
+                <a href="#contact" class="nav-item nav-link">İletişim</a>
+            </div>
+            <a href="" class="btn btn-outline-primary d-none d-lg-block">Hire Me</a>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Video Modal Start -->
+    <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>        
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always" allow="autoplay"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Video Modal End -->
+	
+ <!-- About Start -->
+    <div class="container-fluid py-5" id="about">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">BLOG</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Analytics Erişimimi Kaybettim Ne Yapmalıyım?</h1>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-5 pb-4 pb-lg-0">
+                    <img class="img-fluid rounded w-100" src="img/blog3.png" alt="">
+                </div>
+                <div class="col-lg-7">
+                    <h3 class="mb-4">Erişimi Kaybedilen Google Analytics Hesabına Nasıl Ulaşılır?</h3>
+                    <p>Merhaba değerli okuyucu, bu yazımda erişilemeyen bir Google Analytics hesabına tekrardan nasıl erişim sağlanabileceğinden bahsedeceğim. </br>
+
+
+
+Öncelikle kısaca Google Analytics'den  kısaca bahsedeceğim.</br>
+
+Google Analytics, ücretsiz bir web performans analizi servisidir. Ücretsiz ve son kullanıcı dostu olması sebebiyle WWW'de bulunan hemen hemen her sitede kullanılır.</br>
+
+Google Analytics bağlantılı olduğu web sitesinin sahibine, kullanıcının nereden geldiğini, site içerisinde hangi sayfalara girdiği ve sitede bulunma süresi, girme çıkma oranı gibi pek çok veriyi sağlar.</br>
+
+
+
+Firmalar, bazen içlerinde bulunan çalışanları, bazen de hizmet aldıkları ajansların desteği ile web sitelerine Google Analytics tanımlarını yaparlar. Firmada bu tanımı yapan personelin işten ayrılması veya hizmet aldıkları firmalar ile yaşanan ani sözleşme fesihleri durumlarında Google Analytics hesaplarına erişimi kaybedebilirler. </br>
+
+Web sitesine yeni bir Google Analytics hesabı tanımlamak elbette mümkündür ancak bunun yapılması halinde geçmiş verilere erişilemez. Böyle bir durumla karşılaşıldığında yapılacak olan işlem oldukça basittir. Bir kaç maddede tamamlanabilir. </br>Maddeler halinde inceleyecek olursak;</br>
+
+
+
+1- https://support.google.com/analytics/troubleshooter/7264014#ts=7271146  bağlantısını kullanarak destek alacağımız sayfaya ulaşın.</br>
+
+2.a- Aşağıda bulunan metindeki "INSERT EMAİL ADRESS" Google Analytics hesabında yetkilendirme yapılmasını istediğiniz mail adresini girin.</br>
+
+2.b- "INSERT UA-ID" kısmına erişmek istediğiniz Google Analytics hesabının numarasını girin. Bu numaraya nasıl erişeceğinizi bilmiyorsanız "Kaynak Kodları Basit Anlatım" adlı yazımı inceleyebilirsiniz. </br>
+
+2.c- "INSERT DATE" kısmına içerisinde bulunduğunuz tarihi yazın.
+
+GooGhywoiu9839t543j0s7543uw1 - Lütfen {INSERT EMAIL ADDRESS} adresini {INSERT UA-ID} kimlikli GA hesabına "Kullanıcıları Yönetme ve Düzenleme" izinlerine sahip kullanıcı olarak ekleyin (Tarih: {INSERT DATE}).
+
+
+
+3- Web sitenizde analytics.txt adında bir sayfa oluşturun ve üst kısımda bahsettiğimiz metni bu sayfaya ekleyin. Bu sayfanın ana dizinde bulunmasına dikkat edin. Eklediğiniz dosyanın URL'i google.com/analytics.txt şeklinde görünmeli.
+
+4- https://support.google.com/analytics/gethelp?visit_id=637595633052215525-2822991212&rd=1 adresine erişin ve gerekli kısımları doldurarak Google ile iletişime geçin.
+
+Yaklaşık bir gün içinde hesabınıza erişim sağlayabileceksiniz
+
+İhtiyaç halinde bu maddeleri uygularken sorun yaşarsanız çekinmeden Linkedn üzerinden mesaj atabilirsiniz. 
+
+Sevgiler. </p>
+                    
+               
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+	 <!-- Footer Start -->
+    <div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5">
+        <div class="container text-center py-5">
+            <div class="d-flex justify-content-center mb-4">
+                <a class="btn btn-light btn-social mr-2" href="https://twitter.com/furkanertekk"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-light btn-social mr-2" href="https://www.facebook.com/furkan.ertek.5/"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-light btn-social mr-2" href="https://www.linkedin.com/in/furkan-ertek-90541a161/"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-light btn-social" href="https://www.instagram.com/furkanertekk/"><i class="fab fa-instagram"></i></a>
+            </div>
+            <div class="d-flex justify-content-center mb-3">
+                <a class="text-white" href="#">Privacy</a>
+                <span class="px-3">|</span>
+                <a class="text-white" href="#">Terms</a>
+                <span class="px-3">|</span>
+                <a class="text-white" href="#">FAQs</a>
+                <span class="px-3">|</span>
+                <a class="text-white" href="#">Help</a>
+            </div>
+            <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">furkanertek.rf.gd</a>. Tüm Hakları Saklıdır. Designed by <a class="text-white font-weight-bold" href="https://www.linkedin.com/in/furkan-ertek-90541a161/">Furkan ERTEK</a>
+            </p>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- Scroll to Bottom -->
+    <i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-outline-dark px-0 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
